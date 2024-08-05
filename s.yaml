@@ -1,24 +1,38 @@
 dependencies:
   - name: torch
+    version: 1.10.2 
   - name: torchsde
+    version: 0.2.5
   - name: torchvision
+    version: 0.11.3
   - name: torchaudio
+    version: 0.10.2
   - name: einops
+    version: 0.4.1
   - name: transformers
     version: 4.28.1
   - name: tokenizers
     version: 0.13.3
   - name: sentencepiece
+    version: 0.1.99
   - name: safetensors
     version: 0.4.2
   - name: aiohttp
+    version: 3.8.6
   - name: pyyaml
+    version: 6.0.1
   - name: Pillow
+    version: 8.4.0
   - name: scipy
+    version: 1.5.4
   - name: tqdm
+    version: 4.64.1
   - name: psutil
+    version: 6.0.0
   - name: kornia
     version: 0.7.1
   - name: spandrel
+    version: 0.1.6
   - name: soundfile
+    version: 0.12.1
   
